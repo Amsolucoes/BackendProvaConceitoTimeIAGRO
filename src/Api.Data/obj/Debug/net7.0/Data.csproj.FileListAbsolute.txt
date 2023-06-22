@@ -1,0 +1,5 @@
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Api.Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Api.Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Api.Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Api.Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Api.Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
