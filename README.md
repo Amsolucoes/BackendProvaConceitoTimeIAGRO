@@ -6,7 +6,10 @@
   * Consulta do Livro por nome http://localhost:5000/api/books/name/Harry Potter and the Goblet of Fire
   * Consulta por Author do livro fazendo ordenação por Preço: se for 0 será crescente, se for 1 será decrescente: http://localhost:5000/api/books/author/J. K. Rowling/0
   * Pode ser usado o Postman
-  * Criei um BD MySql com os dados para Consulta. Neste caso terá que instalar o Mysql Workbench
+  * Criei um BD MySql com os dados para Consulta. Neste caso terá que instalar o Mysql Workbench, as informações de acesso, precisará mudar em 3 lugares, colocando seu usuário e senha :
+     * Projeto CrossCutting\ConfigureRepository
+     * Projeto Data\Context\ContextFactory
+     * Projeto Tests\BaseTest
   * Segue os inserts caso precise: 
   
     * insert into book
