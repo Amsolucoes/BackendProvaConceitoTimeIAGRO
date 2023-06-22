@@ -18,7 +18,7 @@ namespace application.Controllers
         }
 
         [HttpGet]
-        [Route("name", Name ="GetWithName")]
+        [Route("name/{name}")]
         public async Task<ActionResult> SearchBookForName(string name)
         {
             if (!ModelState.IsValid)
