@@ -1,5 +1,6 @@
-# Criado Projeto Book com Entity Framework .NEt Core 3.1
-# Feito os endpoints de Consulta do Livro por Name, Author and Calculate % de Taxa de Entrega
+* Criado Projeto Book com Entity Framework .NEt Core 3.1
+* Feito no Conceito DDD (Domain, Drive, Data)
+* Feito os endpoints de Consulta do Livro por Name, Author and Calculate % de Taxa de Entrega
 
   * Consulta por name trazendo a taxa de 20% sobre o Preço: http://localhost:5000/api/books/calculate/Harry Potter and the Goblet of Fire
   * Consulta do Livro por nome http://localhost:5000/api/books/name/Harry Potter and the Goblet of Fire
@@ -26,8 +27,8 @@
 ('5', 'The Lord of the Rings', '6.15', 'July 29, 1954', 'J. R. R. Tolkien', '715', 'Alan Lee', 'Fantasy Fiction')
 
 
-# Incluido Swagger para ajudar na abertura da API junto a documentação
-# Criado Testes Unitários com XUnit
+* Incluido Swagger para ajudar na abertura da API junto a documentação
+* Criado Testes Unitários com XUnit
 
 Obs: Não usei JWT
 
