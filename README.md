@@ -1,5 +1,5 @@
 * Criado Projeto Book com Entity Framework .NEt Core 3.1
-* Feito no Conceito DDD (Domain, Drive, Data)
+* Feito no Conceito DDD (Domain, Drive, Desing)
 * Feito os endpoints de Consulta do Livro por Name, Author and Calculate % de Taxa de Entrega
 
   * Consulta por name trazendo a taxa de 20% sobre o Preço: http://localhost:5000/api/books/calculate/Harry Potter and the Goblet of Fire
