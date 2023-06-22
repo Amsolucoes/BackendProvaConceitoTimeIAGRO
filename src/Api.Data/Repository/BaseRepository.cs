@@ -6,8 +6,6 @@ using Api.Data.Context;
 using Api.Domain.Entities;
 using Api.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
-using Newtonsoft.Json.Linq;
 
 namespace Api.Data.Repository
 {

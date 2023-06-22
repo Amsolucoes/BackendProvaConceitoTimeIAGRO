@@ -156,3 +156,10 @@ C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\obj
 C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\obj\Debug\netcoreapp3.1\Tests.dll
 C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\obj\Debug\netcoreapp3.1\Tests.pdb
 C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\USER\source\cursos\curso-dotnet\ArquiteturaDoProjeto_API\src\Testes\bin\Debug\netcoreapp3.1\System.Text.Json.dll
